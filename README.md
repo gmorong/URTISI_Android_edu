@@ -18,18 +18,18 @@
 
 <div align="center">
 
-### Работы 1-4
-| Работа 1 | Работа 2 | Работа 3 | Работа 4 |
+### Демонстрация
+| Демо 1 | Демо 2 | Демо 3 | Демо 4 |
 |:---:|:---:|:---:|:---:|
 | <img src="./demo/1.gif" width="180" alt="Work 1"> | <img src="./demo/2.gif" width="180" alt="Work 2"> | <img src="./demo/3.gif" width="180" alt="Work 3"> | <img src="./demo/4.gif" width="180" alt="Work 4"> |
 
-### Работы 5-8
-| Работа 5 | Работа 6 | Работа 7 | Работа 8 |
+### Демонстрация
+| Демо 5 | Демо 6 | Демо 7 | Демо 8 |
 |:---:|:---:|:---:|:---:|
 | <img src="./demo/5.gif" width="180" alt="Work 5"> | <img src="./demo/6.gif" width="180" alt="Work 6"> | <img src="./demo/7.gif" width="180" alt="Work 7"> | <img src="./demo/8.gif" width="180" alt="Work 8"> |
 
-### Работы 9-11
-| Работа 9 | Работа 10 | Работа 11 |
+### Демонстрация
+| Демо 9 | Демо 10 | Демо 11 |
 |:---:|:---:|:---:|
 | <img src="./demo/9.gif" width="180" alt="Work 9"> | <img src="./demo/10.gif" width="180" alt="Work 10"> | <img src="./demo/11.gif" width="180" alt="Work 11"> |
 
