@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:checkableBehavior="single">
+    <item
+        android:id="@+id/action1"
+        android:orderInCategory="100"
+        android:title="Set 20sp"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action2"
+        android:orderInCategory="100"
+        android:title="Set 30sp"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action3"
+        android:orderInCategory="100"
+        android:title="Set 40sp"
+        app:showAsAction="never"/>
+
+</menu>

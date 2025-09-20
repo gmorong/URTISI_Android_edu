@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:checkableBehavior="single">
+    <group android:id="@+id/menugroup1">
+        <item
+            android:id="@+id/menu1"
+            android:orderInCategory="100"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/popup_menu_item_1"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/menu2"
+            android:orderInCategory="100"
+            android:title="@string/popup_menu_item_2"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/menu3"
+            android:orderInCategory="100"
+            android:title="@string/popup_menu_item_3"
+            app:showAsAction="never"/>
+    </group>
+    <group android:id="@+id/menugroup2">
+        <item
+            android:id="@+id/menu4"
+            android:orderInCategory="100"
+            android:enabled="false"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/popup_menu_item_4"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/menu5"
+            android:orderInCategory="100"
+            android:title="@string/popup_menu_item_5"
+            android:enabled="false"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/menu6"
+            android:orderInCategory="100"
+            android:title="@string/popup_menu_item_6"
+            android:enabled="false"
+            app:showAsAction="never">
+            <menu>
+                <item
+                    android:id="@+id/submenu"
+                    android:orderInCategory="100"
+                    android:title="@string/submenu"
+                    app:showAsAction="never"/>
+            </menu>
+        </item>
+    </group>
+</menu>

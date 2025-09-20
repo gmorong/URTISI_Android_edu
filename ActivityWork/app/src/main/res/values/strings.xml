@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ActivityWork</string>
+    <string name="r">Start!</string>
+    <string name="rand_text">I will guess</string>
+    <string name="rand_num">Guess The Nember</string>
+    <string name="exit">Exit</string>
+    <string name="changed">Change</string>
+    <string name="indicate_range">Indicate range</string>
+    <string name="from">From:</string>
+    <string name="before">Before:</string>
+    <string name="fromt">from</string>
+    <string name="beforet">before</string>
+    <string name="your_number_is">Your number is...?</string>
+    <string name="aplly">Aplly</string>
+    <string name="q">Q</string>
+    <string name="you_will_guess">You will guess</string>
+    <string name="your_guess">your guess</string>
+    <string name="my_number_is">My number is ...?</string>
+</resources>

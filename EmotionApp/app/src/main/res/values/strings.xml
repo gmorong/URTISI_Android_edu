@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmotionApp</string>
+    <string name="but">button</string>
+    <string name="apps">App-Emotion</string>
+    <string name="aps">App-emotion</string>
+    <string name="fio">Введите Ваше имя</string>
+    <string name="maps">Оцените Ваше настроение: 50</string>
+    <string name="hi">Hello!</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorShifts</string>
+    <string name="purple">Purple</string>
+    <string name="lighgreen">LighGreen</string>
+    <string name="tiffany">Tiffany</string>
+    <string name="textview">TextView</string>
+    <string name="pink">pink</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
